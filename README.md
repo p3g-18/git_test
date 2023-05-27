@@ -1,2 +1,2 @@
 # git_test
-My first GitHub repo!
+A small Html project for different cuisines in India
